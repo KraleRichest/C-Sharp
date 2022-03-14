@@ -1,0 +1,14 @@
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.exe
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.deps.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.runtimeconfig.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.runtimeconfig.dev.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.dll
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.pdb
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.csproj.AssemblyReference.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.AssemblyInfoInputs.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.AssemblyInfo.cs
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.csproj.CoreCompileInputs.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.dll
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.pdb
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Strings.genruntimeconfig.cache

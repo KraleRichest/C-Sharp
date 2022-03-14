@@ -1,0 +1,14 @@
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.exe
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.deps.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.runtimeconfig.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.runtimeconfig.dev.json
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.dll
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.pdb
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.AssemblyInfoInputs.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.AssemblyInfo.cs
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.csproj.CoreCompileInputs.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.dll
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.pdb
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.genruntimeconfig.cache
+C:\Users\Krale.Krstev\Desktop\C-Sharp-Start\SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.Dates.csproj.AssemblyReference.cache
